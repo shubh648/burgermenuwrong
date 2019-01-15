@@ -6,7 +6,7 @@ The event for collapsing the "menu navigation" is on the div element which conta
 ## Instructions for running project
 ```
 git clone https://github.com/shubh648/burgermenuwrong.git
-cd eventbubbling
+cd burgermenuwrong
 npm i
 npm start
 ```
